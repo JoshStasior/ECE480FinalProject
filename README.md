@@ -1,0 +1,2 @@
+The visualizaitons and computations for my ECE480 Final Project can be found here. There is a lot of redunancy across code files, however, I decided to serperate them for the purpose of making it easy for anyone who wishes to test my code to test a specific visualization on its own.
+The dataset used can be found here: https://archive.ics.uci.edu/ml/datasets/Spoken+Arabic+Digit. When running the code, please ensure that Train_Arabic_Digit.txt and Test_Arabic_Digit.txt are in the same directory as the code snippet that you are running
